@@ -2,10 +2,10 @@ import tweepy
 import json
 import codecs
 
-consumer_key = "WafKnu1qFkyTk97ywThW9bJHd"
-consumer_secret = "e9oay20TLtXWRKtLwgedAvBMkNjfWjHk7IsjVzGRSyQZottc4y"
-access_token = "907859869889384448-eC2oiD8JfHpGpIqpGws29G2bACAUeDB"
-access_token_secret = "XQbbPiA5ld3IvKKtjcCO68sRg0he0bhGXCqWJCccpK70e"
+consumer_key = "xxxxxxxxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx"
+access_token_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Creating the authentication object
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
